@@ -12,3 +12,6 @@ var b = {
 }
 var bc = new Function()
 var dn =124
+function f1(){
+    return document.getElementById("first").innerHTML =  "hello world"
+}
