@@ -1,0 +1,8 @@
+.block1 { 
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 200px; 
+    border: solid 23px black; 
+    float: left;
+   }
