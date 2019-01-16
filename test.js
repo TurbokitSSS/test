@@ -10,3 +10,4 @@ var b = {
         return "Helli Pack"
     }
 }
+var bc = new Function()
