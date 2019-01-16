@@ -12,5 +12,13 @@ var b =  10;
 var  c = 2541
 var l  =  213
 console.log("Hello world")
-var  c = 2541
-var l  =  213
+var csdfjsdkfj=l
+
+class{
+    "hello World"
+}
+
+var abc = 123
+function f3(){
+    return "Hello World + Kiss"
+}
